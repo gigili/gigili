@@ -27,11 +27,11 @@ My name is Igor and I currenlty work as a Full stack web developer buidling web 
 Aparat from my passion about coding I also like to write blog posts about my projects, new libraries / packages or some other stuff that I feel people might find usefull or interesting to read about. 
 
 <!-- DEVTO:START -->
+- [As a man in tech I stand for EQUALITY](https://dev.to/gac/as-a-man-in-tech-i-stand-for-equality-11o8)
 - [PHP routing library for fast API development](https://dev.to/gac/php-routing-library-for-fast-api-development-2j9d)
 - [I open sourced my first android application](https://dev.to/gac/i-open-sourced-my-first-android-application-1nim)
 - [Selling apps to non IT people](https://dev.to/gac/building-apps-for-non-it-people-3h9p)
 - [Need help / suggestions on a project](https://dev.to/gac/need-help-suggestions-on-a-project-1pe3)
-- [What is your daily source of information?](https://dev.to/gac/what-is-your-daily-source-of-information-4o0b)
 <!-- DEVTO:END -->
 
 ## Contact 
