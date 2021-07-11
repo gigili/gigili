@@ -8,20 +8,18 @@ My name is Igor and I currenlty work as a Full stack web developer buidling web 
   [![Twitter icon](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/Gac_BL)
   [![Twitch icon](https://img.icons8.com/color/48/000000/twitch--v1.png)](https://www.twitch.tv/gacbl)
   [![Linkedin icon](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/igor-ilic-17573784/)
+  [![Discord icon](https://img.icons8.com/fluent/48/000000/discord-new-logo.png)](https://discord.gg/VCwfegn4Gn)
   [![Dev.to icon](devto.png)](https://dev.to/gac)
 </h3>
 
 ## Some stuff to know about me
 
-- ❤️ Love open source software and ideology behind it 
-- 🐛 Adding bugs to code since 2010
-- 🎥 [Twitch](https://www.twitch.tv/gacbl) streamer
-- 📱 Hobbyist Android app developer
-- 🔭 Love to contribute to other open source project such as 
-  - [MemeBox](https://github.com/negue/meme-box)
-  - [CodePow](https://codepow.io) 
+- ❤️ I love open source software and ideology behind it 
+- 🐛 Have been adding bugs to code since 2010
+- 🎥 Affiliate [Twitch](https://www.twitch.tv/gacbl) streamer
+- 📱 Hobbyist mobile app developer
+- 🔭 I love to contribute to other open source projects
   
-
 ## ✍ [Blog](https://dev.to/gac)
 
 Aparat from my passion about coding I also like to write blog posts about my projects, new libraries / packages or some other stuff that I feel people might find usefull or interesting to read about. 
