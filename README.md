@@ -41,7 +41,7 @@ Aparat from my passion about coding I also like to write blog posts about my pro
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github_
 
 <a href="https://github.com/gigili">
-<img align="left" alt="Gigili's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gigili&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="left" alt="Gigili's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gigili&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" width="450"/></a>
 <a href="https://github.com/gigili">
   <img align="center" alt="Gigili's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigili&layout=compact&theme=radical" />
 </a>
