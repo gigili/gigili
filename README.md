@@ -45,3 +45,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/gigili">
   <img align="center" alt="Gigili's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigili&layout=compact&theme=radical" />
 </a>
+
+---
+
+[![@gac's Holopin board](https://holopin.io/api/user/board?user=gac)](https://holopin.io/@gac)
