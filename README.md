@@ -20,7 +20,7 @@ My name is Igor and I currenlty work as a Full stack web developer buidling web 
 - 📱 Hobbyist mobile app developer
 - 🔭 I love to contribute to other open source projects
   
-## ✍ [Blog](https://dev.to/gac)
+## ✍ [Blog](https://blog.igorilic.dev/)
 
 Aparat from my passion about coding I also like to write blog posts about my projects, new libraries / packages or some other stuff that I feel people might find usefull or interesting to read about. 
 
