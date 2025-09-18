@@ -5,10 +5,10 @@ My name is Igor and I currenlty work as a Full stack web developer buidling web 
 <h3 align="center">
   <b>You can find me on</b>
   
-  [![Twitter icon](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/Gac_BL)
+  [![X icon](https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png&color=ffffff)](https://twitter.com/Gac_BL)
   [![Twitch icon](https://img.icons8.com/color/48/000000/twitch--v1.png)](https://www.twitch.tv/gacbl)
   [![Linkedin icon](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/igor-ilic-17573784/)
-  [![Discord icon](https://img.icons8.com/fluent/48/000000/discord-new-logo.png)](https://discord.gg/VCwfegn4Gn)
+  [![Discord icon](https://img.icons8.com/fluent/48/000000/discord-new-logo.png)](https://discord.gg/7maXVvt2c4)
   [![Dev.to icon](devto.png)](https://dev.to/gac)
 </h3>
 
