@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Igor and I currenlty work as a Full stack web developer buidling web based applications for financial institutions. 
+My name is Igor and I currenlty work as a Full stack web developer buidling web based applications. 
 
 <h3 align="center">
   <b>You can find me on</b>
@@ -17,7 +17,6 @@ My name is Igor and I currenlty work as a Full stack web developer buidling web 
 - ❤️ I love open source software and ideology behind it 
 - 🐛 Have been adding bugs to code since 2010
 - 🎥 Affiliate [Twitch](https://www.twitch.tv/gacbl) streamer
-- 📱 Hobbyist mobile app developer
 - 🔭 I love to contribute to other open source projects
   
 ## ✍ [Blog](https://blog.igorilic.dev/)
@@ -25,8 +24,8 @@ My name is Igor and I currenlty work as a Full stack web developer buidling web 
 Aparat from my passion about coding I also like to write blog posts about my projects, new libraries / packages or some other stuff that I feel people might find usefull or interesting to read about. 
 
 <!-- DEVTO:START -->
-- [Shell script for starting new projects](https://dev.to/gac/shell-script-for-starting-new-projects-1n5c)
 - [As a man in tech I stand for EQUALITY](https://dev.to/gac/as-a-man-in-tech-i-stand-for-equality-11o8)
+- [Shell script for starting new projects](https://dev.to/gac/shell-script-for-starting-new-projects-1n5c)
 - [PHP routing library for fast API development](https://dev.to/gac/php-routing-library-for-fast-api-development-2j9d)
 - [I open sourced my first android application](https://dev.to/gac/i-open-sourced-my-first-android-application-1nim)
 - [Selling apps to non IT people](https://dev.to/gac/building-apps-for-non-it-people-3h9p)
@@ -34,7 +33,7 @@ Aparat from my passion about coding I also like to write blog posts about my pro
 
 ## Contact 
 
-- 📫 You can reach me by [email](mailto:github@igorilic.net) or [Twitter](https://twitter.com/Gac_BL).
+- 📫 You can reach me by [email](mailto:github@igorilic.net) or [X](https://x.com/Gac_BL).
 
 ## Stats 
 
